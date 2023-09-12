@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e243d2b0.css",
+    "main.js": "/static/js/main.e87d7192.js",
+    "static/js/512.03a899a6.chunk.js": "/static/js/512.03a899a6.chunk.js",
+    "static/media/biblio.webp": "/static/media/biblio.63b55f461b7f7fbc23de.webp",
+    "static/media/Caveat-Medium.ttf": "/static/media/Caveat-Medium.f7a72dfa6e8c4f239ede.ttf",
+    "index.html": "/index.html",
+    "main.e243d2b0.css.map": "/static/css/main.e243d2b0.css.map",
+    "main.e87d7192.js.map": "/static/js/main.e87d7192.js.map",
+    "512.03a899a6.chunk.js.map": "/static/js/512.03a899a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e243d2b0.css",
+    "static/js/main.e87d7192.js"
+  ]
+}
