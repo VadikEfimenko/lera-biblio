@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.e243d2b0.css",
-    "main.js": "/static/js/main.e87d7192.js",
-    "static/js/512.03a899a6.chunk.js": "/static/js/512.03a899a6.chunk.js",
-    "static/media/biblio.webp": "/static/media/biblio.63b55f461b7f7fbc23de.webp",
-    "static/media/Caveat-Medium.ttf": "/static/media/Caveat-Medium.f7a72dfa6e8c4f239ede.ttf",
-    "index.html": "/index.html",
-    "main.e243d2b0.css.map": "/static/css/main.e243d2b0.css.map",
-    "main.e87d7192.js.map": "/static/js/main.e87d7192.js.map",
-    "512.03a899a6.chunk.js.map": "/static/js/512.03a899a6.chunk.js.map"
+    "main.css": "/lera-biblio/static/css/main.2c1a78a7.css",
+    "main.js": "/lera-biblio/static/js/main.f9a3ddcd.js",
+    "static/js/787.914e047f.chunk.js": "/lera-biblio/static/js/787.914e047f.chunk.js",
+    "static/media/biblio.webp": "/lera-biblio/static/media/biblio.63b55f461b7f7fbc23de.webp",
+    "static/media/Caveat-Medium.ttf": "/lera-biblio/static/media/Caveat-Medium.f7a72dfa6e8c4f239ede.ttf",
+    "index.html": "/lera-biblio/index.html",
+    "main.2c1a78a7.css.map": "/lera-biblio/static/css/main.2c1a78a7.css.map",
+    "main.f9a3ddcd.js.map": "/lera-biblio/static/js/main.f9a3ddcd.js.map",
+    "787.914e047f.chunk.js.map": "/lera-biblio/static/js/787.914e047f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e243d2b0.css",
-    "static/js/main.e87d7192.js"
+    "static/css/main.2c1a78a7.css",
+    "static/js/main.f9a3ddcd.js"
   ]
 }
